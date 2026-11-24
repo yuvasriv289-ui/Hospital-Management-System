@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225100063
+# Name: Yuvasri V
+# Date: 21.11.2026
 
 
 # AIM:
@@ -41,6 +41,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="677" height="822" alt="image" src="https://github.com/user-attachments/assets/bdce4266-ab89-4308-acb1-f3c0f64aba9f" />
 
 
 
@@ -60,6 +61,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1186" height="886" alt="image" src="https://github.com/user-attachments/assets/414f2f23-6d06-45ba-b303-337ec1e71558" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -68,6 +70,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="1346" height="1013" alt="image" src="https://github.com/user-attachments/assets/24a18146-ea5e-4c41-a2c0-dc91be6cf4e5" />
 
 
 
@@ -81,6 +84,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1198" height="643" alt="image" src="https://github.com/user-attachments/assets/1846059e-18b5-4d36-ac7d-1c083841dde5" />
 
 
 
@@ -99,6 +103,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="622" height="791" alt="image" src="https://github.com/user-attachments/assets/9a2d982e-79e3-4e16-8cee-1b2395fa43dc" />
 
 
 
@@ -120,6 +125,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="1207" height="951" alt="image" src="https://github.com/user-attachments/assets/96c73d44-ed84-4756-b929-a1ca7205f491" />
 
 
 
@@ -127,4 +133,3 @@ Plan and understand the detailed functionality of an existing or future scenario
 # RESULT
 
 Thus the project to develop Hospital Management system was developed using Star UML Software is done successfully.
-
